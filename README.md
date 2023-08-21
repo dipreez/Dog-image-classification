@@ -17,6 +17,6 @@ One causes of overfitting is insufficient learning data. Since our dataset conta
 ## Drop out
 Dropout, another way to solve overfitting, is aplied into the model. Drop out means to randomly selects a node of a model for each period and remove it.
 
-## Final training result
+# Final training result
 ![ai4](https://github.com/dipreez/Dog-image-classification/assets/50349104/80495fe7-a8d5-4477-a173-d308bdeafe77)
 Above graph is the training result after the improvement.
